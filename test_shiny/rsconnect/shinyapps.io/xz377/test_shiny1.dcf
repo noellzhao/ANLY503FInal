@@ -1,0 +1,12 @@
+name: test_shiny1
+title: test_shiny1
+username:
+account: xz377
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 617479
+bundleId: 1764774
+url: https://xz377.shinyapps.io/test_shiny1/
+when: 1544851198.52523
+asMultiple: FALSE
+asStatic: FALSE

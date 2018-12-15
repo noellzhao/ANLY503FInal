@@ -1,0 +1,229 @@
+SourceNmae,TargetName,SourceID,TargetID,CosSim
+Australia,Germany,0,17,0.9973797186128522
+Australia,Post-demographic dividend,0,62,0.9968398218714697
+Australia,High income,0,29,0.9963223433129846
+Austria,High income,1,29,0.9976563445293269
+Austria,Post-demographic dividend,1,62,0.997523846025793
+Austria,OECD members,1,59,0.9970491684740945
+Azerbaijan,Romania,2,64,0.9914067272475787
+Azerbaijan,Guatemala,2,28,0.9866000663590175
+Azerbaijan,El Salvador,2,65,0.979500048985186
+Belgium,Finland,3,25,0.9988127782804403
+Belgium,New Zealand,3,58,0.9961751680305098
+Belgium,Sweden,3,69,0.994456739058628
+Belarus,Mauritius,4,54,0.9963270179788152
+Belarus,Ecuador,4,20,0.9954872757114674
+Belarus,Latin America & the Caribbean (IDA & IBRD countries),4,71,0.9946040678134712
+Belize,Kyrgyz Republic,5,39,0.9914020608544989
+Belize,Ukraine,5,73,0.9910285908495416
+Belize,Caribbean small states,5,14,0.9866912721385537
+Bolivia,Moldova,6,49,0.9923982508170363
+Bolivia,Belize,6,5,0.9758560954467813
+Bolivia,Kyrgyz Republic,6,39,0.9525191507731942
+Brazil,Mongolia,7,53,0.997948899279039
+Brazil,Caribbean small states,7,14,0.9978358766027304
+Brazil,Jamaica,7,37,0.9976712820761571
+Barbados,Caribbean small states,8,14,0.99646684190723
+Barbados,Brazil,8,7,0.9951314596092121
+Barbados,Mongolia,8,53,0.9935902911404436
+Central Europe and the Baltics,Chile,9,11,0.9992198475900481
+Central Europe and the Baltics,Poland,9,60,0.9991747945228289
+Central Europe and the Baltics,Hungary,9,31,0.9984910441919916
+Switzerland,United States,10,74,0.9902775375897466
+Switzerland,North America,10,56,0.9884897386713098
+Switzerland,Luxembourg,10,46,0.9731163535303566
+Chile,Central Europe and the Baltics,11,9,0.9992198475900481
+Chile,Poland,11,60,0.997684039988329
+Chile,Hungary,11,31,0.9975537029770356
+Cote d'Ivoire,Bolivia,12,6,0.8770735138707717
+Cote d'Ivoire,Moldova,12,49,0.8513165113891421
+Cote d'Ivoire,Eswatini,12,70,0.842203739397642
+Colombia,Latin America & Caribbean (excluding high income),13,41,0.995896159814539
+Colombia,Latin America & the Caribbean (IDA & IBRD countries),13,71,0.9956854084496563
+Colombia,Latin America & Caribbean,13,43,0.9954270227719152
+Caribbean small states,Brazil,14,7,0.9978358766027304
+Caribbean small states,Ukraine,14,73,0.9976001193800635
+Caribbean small states,Barbados,14,8,0.99646684190723
+Cyprus,Lithuania,15,45,0.9932115140774654
+Cyprus,Europe & Central Asia,15,19,0.9930014867551695
+Cyprus,Barbados,15,8,0.9917864951370663
+Czech Republic,"Korea, Rep.",16,40,0.9914197195204968
+Czech Republic,Chile,16,11,0.9886237086558206
+Czech Republic,Hungary,16,31,0.9845255902677275
+Germany,Australia,17,0,0.9973797186128522
+Germany,Austria,17,1,0.9965483047090848
+Germany,High income,17,29,0.9960605148224279
+Denmark,Sweden,18,69,0.9988496184566452
+Denmark,Finland,18,25,0.9934851509505345
+Denmark,Norway,18,57,0.9932648535119177
+Europe & Central Asia,Slovenia,19,68,0.9984984168144748
+Europe & Central Asia,Lithuania,19,45,0.9975036262796942
+Europe & Central Asia,European Union,19,24,0.9970898948301867
+Ecuador,Mexico,20,51,0.9989835180152135
+Ecuador,Malaysia,20,55,0.9981811449536225
+Ecuador,Belarus,20,4,0.9954872757114674
+Euro area,France,21,26,0.9994201082485493
+Euro area,European Union,21,24,0.9989012072202392
+Euro area,Europe & Central Asia,21,19,0.9949856645674784
+Spain,Serbia,22,66,0.9829292746431593
+Spain,Italy,22,36,0.9766827845412184
+Spain,St. Lucia,22,42,0.975779600280822
+Estonia,Europe & Central Asia,23,19,0.996602578566107
+Estonia,Mauritius,23,54,0.9964835428742751
+Estonia,Slovenia,23,68,0.9960594447056307
+European Union,France,24,26,0.9991210171498809
+European Union,Euro area,24,21,0.9989012072202392
+European Union,Europe & Central Asia,24,19,0.9970898948301867
+Finland,Belgium,25,3,0.9988127782804403
+Finland,Sweden,25,69,0.996767504070809
+Finland,Denmark,25,18,0.9934851509505345
+France,Euro area,26,21,0.9994201082485493
+France,European Union,26,24,0.9991210171498809
+France,Europe & Central Asia,26,19,0.9953100076396083
+United Kingdom,Israel,27,35,0.9995614248985633
+United Kingdom,New Zealand,27,58,0.9974964979340433
+United Kingdom,OECD members,27,59,0.9967068377423571
+Guatemala,El Salvador,28,65,0.9900941717192316
+Guatemala,Romania,28,64,0.987385419705792
+Guatemala,Azerbaijan,28,2,0.9866000663590175
+High income,Post-demographic dividend,29,62,0.9999196597572024
+High income,OECD members,29,59,0.9996658776696966
+High income,Austria,29,1,0.9976563445293269
+"Hong Kong SAR, China",Switzerland,30,10,0.8569972458439847
+"Hong Kong SAR, China",Maldives,30,50,0.8390451473148918
+"Hong Kong SAR, China",United States,30,74,0.8053543363067883
+Hungary,Poland,31,60,0.9995709257204413
+Hungary,Central Europe and the Baltics,31,9,0.9984910441919916
+Hungary,Chile,31,11,0.9975537029770356
+Indonesia,Chile,32,11,0.9920656072081508
+Indonesia,El Salvador,32,65,0.9915904567909554
+Indonesia,Central Europe and the Baltics,32,9,0.9886612584534961
+Ireland,North America,33,56,0.9893640237797424
+Ireland,United States,33,74,0.9885863553178643
+Ireland,Australia,33,0,0.9882532914690934
+"Iran, Islamic Rep.",Spain,34,22,0.9726066131437324
+"Iran, Islamic Rep.",Serbia,34,66,0.9639098391777833
+"Iran, Islamic Rep.",Azerbaijan,34,2,0.96382151690839
+Israel,United Kingdom,35,27,0.9995614248985633
+Israel,New Zealand,35,58,0.9966662588687059
+Israel,OECD members,35,59,0.9966538928685629
+Italy,Slovak Republic,36,67,0.9893317865497052
+Italy,Euro area,36,21,0.9828150740028447
+Italy,Portugal,36,61,0.9818517663467257
+Jamaica,Brazil,37,7,0.9976712820761571
+Jamaica,Mongolia,37,53,0.995559981984555
+Jamaica,Caribbean small states,37,14,0.9941175223934603
+Japan,Czech Republic,38,16,0.9796342770070999
+Japan,Germany,38,17,0.9707714640680065
+Japan,"Korea, Rep.",38,40,0.9688659507681042
+Kyrgyz Republic,Ukraine,39,73,0.9936098772057497
+Kyrgyz Republic,Belize,39,5,0.9914020608544989
+Kyrgyz Republic,Mongolia,39,53,0.9913382595991533
+"Korea, Rep.",Israel,40,35,0.9943231338629114
+"Korea, Rep.",United Kingdom,40,27,0.9922269245960151
+"Korea, Rep.",OECD members,40,59,0.9916932453328421
+Latin America & Caribbean (excluding high income),Latin America & the Caribbean (IDA & IBRD countries),41,71,0.9999507717725059
+Latin America & Caribbean (excluding high income),Latin America & Caribbean,41,43,0.9999391722403842
+Latin America & Caribbean (excluding high income),Mauritius,41,54,0.9982428476414643
+St. Lucia,Serbia,42,66,0.9849619116006334
+St. Lucia,Spain,42,22,0.975779600280822
+St. Lucia,Turkey,42,72,0.949908584590142
+Latin America & Caribbean,Latin America & the Caribbean (IDA & IBRD countries),43,71,0.9999960284405524
+Latin America & Caribbean,Latin America & Caribbean (excluding high income),43,41,0.9999391722403842
+Latin America & Caribbean,Mauritius,43,54,0.9987214746231459
+Sri Lanka,Azerbaijan,44,2,0.9781813906545659
+Sri Lanka,Guatemala,44,28,0.9590308342615685
+Sri Lanka,Romania,44,64,0.950269691944417
+Lithuania,Portugal,45,61,0.9992769663957977
+Lithuania,Europe & Central Asia,45,19,0.9975036262796942
+Lithuania,Slovenia,45,68,0.9971671928866203
+Luxembourg,Switzerland,46,10,0.9731163535303566
+Luxembourg,Qatar,46,63,0.9719310337519568
+Luxembourg,Ireland,46,33,0.9632051216106098
+Latvia,Cyprus,47,15,0.9802753428637113
+Latvia,Belarus,47,4,0.9795147365663626
+Latvia,Barbados,47,8,0.9791957103240778
+"Macao SAR, China",Qatar,48,63,0.960716007926641
+"Macao SAR, China",Luxembourg,48,46,0.954900749662694
+"Macao SAR, China",Japan,48,38,0.9185627909900063
+Moldova,Bolivia,49,6,0.9923982508170363
+Moldova,Belize,49,5,0.979743421993326
+Moldova,Kyrgyz Republic,49,39,0.9664252494871369
+Maldives,Romania,50,64,0.9922873777053702
+Maldives,El Salvador,50,65,0.9897840975224093
+Maldives,Guatemala,50,28,0.9820524128763978
+Mexico,Malaysia,51,55,0.9993732182140653
+Mexico,Ecuador,51,20,0.9989835180152135
+Mexico,Hungary,51,31,0.992475958863184
+Mali,South Africa,52,75,0.9954768329274672
+Mali,Eswatini,52,70,0.9745310849864981
+Mali,St. Lucia,52,42,0.9130228774260912
+Mongolia,Brazil,53,7,0.997948899279039
+Mongolia,Latin America & Caribbean (excluding high income),53,41,0.9964759740256872
+Mongolia,Caribbean small states,53,14,0.9960188412185299
+Mauritius,Latin America & the Caribbean (IDA & IBRD countries),54,71,0.9987397072493985
+Mauritius,Latin America & Caribbean,54,43,0.9987214746231459
+Mauritius,Latin America & Caribbean (excluding high income),54,41,0.9982428476414643
+Malaysia,Mexico,55,51,0.9993732182140653
+Malaysia,Ecuador,55,20,0.9981811449536225
+Malaysia,Estonia,55,23,0.9909395791633194
+North America,United States,56,74,0.9998330505700657
+North America,Australia,56,0,0.9953740936016474
+North America,Ireland,56,33,0.9893640237797424
+Norway,Denmark,57,18,0.9932648535119177
+Norway,Sweden,57,69,0.9883386505609116
+Norway,New Zealand,57,58,0.9815298039832804
+New Zealand,United Kingdom,58,27,0.9974964979340433
+New Zealand,Israel,58,35,0.9966662588687059
+New Zealand,Belgium,58,3,0.9961751680305098
+OECD members,High income,59,29,0.9996658776696966
+OECD members,Post-demographic dividend,59,62,0.9993623356669601
+OECD members,Austria,59,1,0.9970491684740945
+Poland,Hungary,60,31,0.9995709257204413
+Poland,Central Europe and the Baltics,60,9,0.9991747945228289
+Poland,Chile,60,11,0.997684039988329
+Portugal,Lithuania,61,45,0.9992769663957977
+Portugal,Slovak Republic,61,67,0.9948459695382479
+Portugal,Europe & Central Asia,61,19,0.9947481854522504
+Post-demographic dividend,High income,62,29,0.9999196597572024
+Post-demographic dividend,OECD members,62,59,0.9993623356669601
+Post-demographic dividend,Austria,62,1,0.997523846025793
+Qatar,Luxembourg,63,46,0.9719310337519568
+Qatar,Switzerland,63,10,0.9685488941677513
+Qatar,United States,63,74,0.9639397207099344
+Romania,Maldives,64,50,0.9922873777053702
+Romania,Azerbaijan,64,2,0.9914067272475787
+Romania,El Salvador,64,65,0.9901973352996671
+El Salvador,Indonesia,65,32,0.9915904567909554
+El Salvador,Romania,65,64,0.9901973352996671
+El Salvador,Guatemala,65,28,0.9900941717192316
+Serbia,St. Lucia,66,42,0.9849619116006334
+Serbia,Spain,66,22,0.9829292746431593
+Serbia,Turkey,66,72,0.9815648613880429
+Slovak Republic,Portugal,67,61,0.9948459695382479
+Slovak Republic,Turkey,67,72,0.9919121655035831
+Slovak Republic,Lithuania,67,45,0.9911912427597594
+Slovenia,Europe & Central Asia,68,19,0.9984984168144748
+Slovenia,Central Europe and the Baltics,68,9,0.9978972432872834
+Slovenia,Lithuania,68,45,0.9971671928866203
+Sweden,Denmark,69,18,0.9988496184566452
+Sweden,Finland,69,25,0.996767504070809
+Sweden,Belgium,69,3,0.994456739058628
+Eswatini,Mali,70,52,0.9745310849864981
+Eswatini,South Africa,70,75,0.9732662684478967
+Eswatini,Cote d'Ivoire,70,12,0.842203739397642
+Latin America & the Caribbean (IDA & IBRD countries),Latin America & Caribbean,71,43,0.9999960284405524
+Latin America & the Caribbean (IDA & IBRD countries),Latin America & Caribbean (excluding high income),71,41,0.9999507717725059
+Latin America & the Caribbean (IDA & IBRD countries),Mauritius,71,54,0.9987397072493985
+Turkey,Portugal,72,61,0.9943671984692197
+Turkey,Colombia,72,13,0.9934693994976997
+Turkey,Slovak Republic,72,67,0.9919121655035831
+Ukraine,Caribbean small states,73,14,0.9976001193800635
+Ukraine,Mongolia,73,53,0.994666384301211
+Ukraine,Brazil,73,7,0.9936873033236088
+United States,North America,74,56,0.9998330505700657
+United States,Australia,74,0,0.9936130633302799
+United States,Switzerland,74,10,0.9902775375897466
+South Africa,Mali,75,52,0.9954768329274672
+South Africa,Eswatini,75,70,0.9732662684478967
+South Africa,St. Lucia,75,42,0.9007626168011543
